@@ -4,7 +4,7 @@
 Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
 
 ## Usage
-You can access the app here: [https://last-moment-savers.herokuapp.com](https://last-moment-savers.herokuapp.com).
+You can access the app here: [https://simple-personal-budget-tracker.herokuapp.com/](https://simple-personal-budget-tracker.herokuapp.com/).
 
 ## User Story
 **AS A(N)** team member<br>
